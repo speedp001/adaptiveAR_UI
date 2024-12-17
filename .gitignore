@@ -28,53 +28,45 @@
 *.pidb.meta
 *.pdb
 
-# Visual Studio Code Meta Files
-*.pdb.meta
-
 # Unity Generated Meta Files
 *.unitypackage
 
-# Unity Auto-generated .prefab files
+# 임시 프리팹 파일만 무시 (정상 프리팹 파일은 포함)
 *.prefab~
 
-# Hidden files
+# 숨김 파일
 .DS_Store
 
-# Ignore Build Artifacts
+# 빌드 결과물 무시
 *.apk
 *.aab
-*.unitypackage
 *.app
 *.exe
 *.zip
 
-# Ignore Unity Crash Logs
-**/crashlogs/
-**/ErrorLogs/
-
-# User-specific settings
+# 유저 설정 무시
 UserSettings/
 
-# Ignore Mixed Reality Toolkit (MRTK) auto-generated files
+# Mixed Reality Toolkit auto-generated files
 *.csproj
-*.unityproj
 *.sln
 *.vsconfig
 
-# Ignore specific Unity Editor Cache files
-[Uu]serSettings/
-.vs/
-.idea/
+# Unity Collaborate / PlasticSCM
+[Uu]nity[Cc]ollab/
+[Uu]nity[Pp]lastic/
 
-# Ignore Temp Files
+# 불필요한 Temp Files
 *.tmp
 *.bak
 *.swp
 *.old
 
-# Ignore Logs
+# Logs
 *.log
 
-# Ignore Unity Collaborate/PlasticSCM
-[Uu]nity[Cc]ollab/
-[Uu]nity[Pp]lastic/
+# ========== 저작권 문제 파일 무시 ==========
+Assets/Bird/
+Assets/CGSoul/
+Assets/Ergin3d/
+Assets/Green_Worm/
