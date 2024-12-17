@@ -1,0 +1,80 @@
+# ========== Unity Generated Files ==========
+# Logs, Libraries, Temporary, Build Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / VSCode
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio Cache
+.vs/
+
+# Mono
+*.pidb.meta
+*.pdb
+
+# Visual Studio Code Meta Files
+*.pdb.meta
+
+# Unity Generated Meta Files
+*.unitypackage
+
+# Unity Auto-generated .prefab files
+*.prefab~
+
+# Hidden files
+.DS_Store
+
+# Ignore Build Artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.zip
+
+# Ignore Unity Crash Logs
+**/crashlogs/
+**/ErrorLogs/
+
+# User-specific settings
+UserSettings/
+
+# Ignore Mixed Reality Toolkit (MRTK) auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.vsconfig
+
+# Ignore specific Unity Editor Cache files
+[Uu]serSettings/
+.vs/
+.idea/
+
+# Ignore Temp Files
+*.tmp
+*.bak
+*.swp
+*.old
+
+# Ignore Logs
+*.log
+
+# Ignore Unity Collaborate/PlasticSCM
+[Uu]nity[Cc]ollab/
+[Uu]nity[Pp]lastic/
