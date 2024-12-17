@@ -6,7 +6,7 @@
 ## Index
   - [Motivation](#Motivation)
   - [Development Environment](#Development-Environment)
-  - [Guide](#Key-features)
+  - [Guide](#Guide)
   - [Requirements](#Requirements)
   - [Demo Video](#Demo-Video)
 
