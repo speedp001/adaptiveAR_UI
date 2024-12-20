@@ -1,76 +1,76 @@
 # ========== Unity Generated Files ==========
 # Logs, Libraries, Temporary, Build Files
-main_project/[Ll]ibrary/
-main_project/[Tt]emp/
-main_project/[Oo]bj/
-main_project/[Bb]uild/
-main_project/[Bb]uilds/
-main_project/[Ll]ogs/
-main_project/[Mm]emoryCaptures/
+smartglass/[Ll]ibrary/
+smartglass/[Tt]emp/
+smartglass/[Oo]bj/
+smartglass/[Bb]uild/
+smartglass/[Bb]uilds/
+smartglass/[Ll]ogs/
+smartglass/[Mm]emoryCaptures/
 
 # Visual Studio / VSCode
-main_project/.vscode/
-main_project/*.csproj
-main_project/*.unityproj
-main_project/*.sln
-main_project/*.suo
-main_project/*.tmp
-main_project/*.user
-main_project/*.userprefs
-main_project/*.pidb
-main_project/*.booproj
-main_project/*.svd
+smartglass/.vscode/
+smartglass/*.csproj
+smartglass/*.unityproj
+smartglass/*.sln
+smartglass/*.suo
+smartglass/*.tmp
+smartglass/*.user
+smartglass/*.userprefs
+smartglass/*.pidb
+smartglass/*.booproj
+smartglass/*.svd
 
 # Visual Studio Cache
-main_project/.vs/
+smartglass/.vs/
 
 # Mono
-main_project/*.pidb.meta
-main_project/*.pdb
+smartglass/*.pidb.meta
+smartglass/*.pdb
 
 # Unity Generated Meta Files
-main_project/*.unitypackage
+smartglass/*.unitypackage
 
 # 임시 프리팹 파일만 무시 (정상 프리팹 파일은 포함)
-main_project/*.prefab~
+smartglass/*.prefab~
 
 # 숨김 파일
-main_project/.DS_Store
+smartglass/.DS_Store
 
 # 빌드 결과물 무시
-main_project/*.apk
-main_project/*.aab
-main_project/*.app
-main_project/*.exe
-main_project/*.zip
+smartglass/*.apk
+smartglass/*.aab
+smartglass/*.app
+smartglass/*.exe
+smartglass/*.zip
 
 # 유저 설정 무시
-main_project/UserSettings/
+smartglass/UserSettings/
 
 # Mixed Reality Toolkit auto-generated files
-main_project/*.csproj
-main_project/*.sln
-main_project/*.vsconfig
+smartglass/*.csproj
+smartglass/*.sln
+smartglass/*.vsconfig
 
 # Unity Collaborate / PlasticSCM
-main_project/[Uu]nity[Cc]ollab/
-main_project/[Uu]nity[Pp]lastic/
+smartglass/[Uu]nity[Cc]ollab/
+smartglass/[Uu]nity[Pp]lastic/
 
 # 불필요한 Temp Files
-main_project/*.tmp
-main_project/*.bak
-main_project/*.swp
-main_project/*.old
+smartglass/*.tmp
+smartglass/*.bak
+smartglass/*.swp
+smartglass/*.old
 
 # Logs
-main_project/*.log
+smartglass/*.log
 
 # ========== 저작권 문제 파일 무시 ==========
-main_project/Assets/Bird/
-main_project/Assets/CGSoul/
-main_project/Assets/Ergin3d/
-main_project/Assets/Green_Worm/
-main_project/Assets/Bird.meta
-main_project/Assets/CGSoul.meta
-main_project/Assets/Ergin3d.meta
-main_project/Assets/Green_Worm.meta
+smartglass/Assets/Bird/
+smartglass/Assets/CGSoul/
+smartglass/Assets/Ergin3d/
+smartglass/Assets/Green_Worm/
+smartglass/Assets/Bird.meta
+smartglass/Assets/CGSoul.meta
+smartglass/Assets/Ergin3d.meta
+smartglass/Assets/Green_Worm.meta
