@@ -18,30 +18,21 @@
 
 ## Description
 
-
-- **Research Goal**
-  
-  ![Research Goal](./images/슬라이드2.PNG)
-
-- **UI & Toolkit**
-  
-  ![UI Toolkit Example 1](./images/슬라이드3.PNG)
-  
-  ![UI Toolkit Example 2](./images/슬라이드5.PNG)
-
 - **Pipeline**
-  
-  ![Pipeline](./images/슬라이드6.PNG)
+  - Vuforia를 활용한 실시간 이미지 트래킹
+  - Unity UI 렌더링을 통한 AR UI 표시
+  - Contrast Mode를 이용한 색상 최적화
+  - HoloLens2 및 다양한 플랫폼(Android, iOS, Windows)에서 빌드 가능
 
-- **Demo**
-  
-  ![Demo](./images/슬라이드12.PNG)
+![Example Image](https://i.imgur.com/a/VXgsHRw)
 
 ## AssetStore
 
 > 프로젝트를 실행하려면 하단의 Asset 다운로드가 필요합니다.
 > - Santa Claus Rigged (https://assetstore.unity.com/packages/3d/characters/humanoids/humans/santa-claus-rigged-167437)
+> 
 > - Customize Monitor Interface (https://assetstore.unity.com/packages/3d/props/electronics/customize-monitor-interface-123558)
+>   
 > - Emperor Angelfish (https://assetstore.unity.com/packages/3d/characters/animals/fish/emperor-angelfish-263329)
 
 ## Demo Video
