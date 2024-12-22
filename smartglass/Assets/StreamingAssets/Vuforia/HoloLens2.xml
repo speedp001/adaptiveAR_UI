@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="jonas_jonasson" size="0.130000 0.191100" />
+    <ImageTarget name="deeplearning_3" size="0.236000 0.303212" />
+    <ImageTarget name="deeplearning_1" size="0.236000 0.302670" />
+    <ImageTarget name="python_coding_test" size="0.236000 0.303260" />
+  </Tracking>
+</QCARConfig>
