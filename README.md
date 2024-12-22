@@ -1,13 +1,13 @@
 # Real-time Adaptive AR UI
 
->사
->사용자는 원하는 스타일을 선택하여 골라 추천받을 수 있습니다.
+> 
+>
 ---
 ## Index
   - [Motivation](#Motivation)
   - [Development Environment](#Development-Environment)
   - [Guide](#Guide)
-  - [Requirements](#Requirements)
+  - [AssetSore](#AssetStore)
   - [Demo Video](#Demo-Video)
 
 ## Motivation
@@ -20,9 +20,9 @@
 
 ## Development Environment
 
-> Vuforia Engine
-> 
 > Unity 2022.3.54 LTS intel
+> 
+> Vuforia Engine
 > 
 > MRTK - Mixed Reality Toolkit
 
@@ -57,21 +57,18 @@
     <img src="https://i.imgur.com/k5KQmo5.png" alt="Login" style="width: 45%; object-fit: cover;">
 </div>
 
-## Requirements
+## AssetStore
 
-프로젝트를 실행하려면 하단의 Asset 및 Tool 다운로드가 필요합니다.
-- Unity Editor 2022.3.54f1 LTS
-- Vuforia Toolkit (https://developer.vuforia.com/downloads/sdk)
-- MRTK (https://github.com/microsoft/MixedRealityToolkit-Unity/releases)
-- Santa Claus Rigged (https://assetstore.unity.com/packages/3d/characters/humanoids/humans/santa-claus-rigged-167437)
-- Customize Monitor Interface (https://assetstore.unity.com/packages/3d/props/electronics/customize-monitor-interface-123558)
-- Emperor Angelfish (https://assetstore.unity.com/packages/3d/characters/animals/fish/emperor-angelfish-263329)
+>프로젝트를 실행하려면 하단의 Asset 다운로드가 필요합니다.
+>- Santa Claus Rigged (https://assetstore.unity.com/packages/3d/characters/humanoids/humans/santa-claus-rigged-167437)
+>- Customize Monitor Interface (https://assetstore.unity.com/packages/3d/props/electronics/customize-monitor-interface-123558)
+>- Emperor Angelfish (https://assetstore.unity.com/packages/3d/characters/animals/fish/emperor-angelfish-263329)
 
 ## Demo Video
 
 YouTube link
-https://youtu.be/ONddK9AoYs4?feature=shared
+[https://youtu.be/ONddK9AoYs4?feature=shared](https://youtu.be/0OHvZdxElxo?si=tHFxtPfIOrJBwOSo)
 
 PDF 자료
-https://drive.google.com/file/d/1YLiWO9QMu75aqA1TJA5ot12cw2WxyeIl/view?usp=sharing
+[https://drive.google.com/file/d/1YLiWO9QMu75aqA1TJA5ot12cw2WxyeIl/view?usp=sharing](https://drive.google.com/file/d/1fpgGxX7vExJT4DAaq8C7FRRuJd_GlhMc/view?usp=drive_link)
 
