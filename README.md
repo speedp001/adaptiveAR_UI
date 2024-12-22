@@ -59,11 +59,13 @@
 
 ## Requirements
 
-프로젝트를 실행하려면 다음과 같은 Toolkit이 사전에 필요합니다.
+프로젝트를 실행하려면 하단의 Asset 및 Tool 다운로드가 필요합니다.
 - Unity Editor 2022.3.54f1 LTS
-- Vuforia Toolkit(https://developer.vuforia.com/downloads/sdk)
-- MRTK(https://github.com/microsoft/MixedRealityToolkit-Unity/releases)
-```
+- Vuforia Toolkit (https://developer.vuforia.com/downloads/sdk)
+- MRTK (https://github.com/microsoft/MixedRealityToolkit-Unity/releases)
+- Santa Claus Rigged (https://assetstore.unity.com/packages/3d/characters/humanoids/humans/santa-claus-rigged-167437)
+- Customize Monitor Interface (https://assetstore.unity.com/packages/3d/props/electronics/customize-monitor-interface-123558)
+- Emperor Angelfish (https://assetstore.unity.com/packages/3d/characters/animals/fish/emperor-angelfish-263329)
 
 ## Demo Video
 
