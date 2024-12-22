@@ -4,7 +4,7 @@
 ---
 ## Index
   - [Development Environment](#Development-Environment)
-  - [Guide](#Guide)
+  - [Description](#Description)
   - [AssetSore](#AssetStore)
   - [Demo Video](#Demo-Video)
 
@@ -16,8 +16,26 @@
 > 
 > **MRTK - Mixed Reality Toolkit**
 
-## Guide
-[스마트글래스_UI_개발.pdf](https://github.com/user-attachments/files/18221187/_UI_.pdf)
+## Description
+
+
+- **Research Goal**
+  
+  ![Research Goal](./images/슬라이드2.PNG)
+
+- **UI & Toolkit**
+  
+  ![UI Toolkit Example 1](./images/슬라이드3.PNG)
+  
+  ![UI Toolkit Example 2](./images/슬라이드5.PNG)
+
+- **Pipeline**
+  
+  ![Pipeline](./images/슬라이드6.PNG)
+
+- **Demo**
+  
+  ![Demo](./images/슬라이드12.PNG)
 
 ## AssetStore
 
