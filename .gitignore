@@ -20,6 +20,7 @@ smartglass/*.userprefs
 smartglass/*.pidb
 smartglass/*.booproj
 smartglass/*.svd
+smartglass/*.tgz
 
 # Visual Studio Cache
 smartglass/.vs/
