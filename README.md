@@ -17,8 +17,8 @@
 > **MRTK - Mixed Reality Toolkit**
 
 ## Description
-https://imgur.com/Zlq5ifu
-[![Example Image](https://i.imgur.com/a/VXgsHRw)](https://imgur.com/a/2V5Zce3)
+
+![Example Image](<blockquote class="imgur-embed-pub" lang="en" data-id="a/2V5Zce3" data-context="false" ><a href="//imgur.com/a/2V5Zce3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 ## AssetStore
 
