@@ -17,8 +17,7 @@
 > **MRTK - Mixed Reality Toolkit**
 
 ## Guide
-
-
+[스마트글래스_UI_개발.pdf](https://github.com/user-attachments/files/18221187/_UI_.pdf)
 
 ## AssetStore
 
