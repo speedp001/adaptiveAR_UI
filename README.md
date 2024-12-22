@@ -29,7 +29,7 @@
 | 5    | ![Image 5](https://i.imgur.com/DVSz302.png) | 6    | ![Image 6](https://i.imgur.com/kEYHG9Z.png) |
 | 7    | ![Image 7](https://i.imgur.com/FKNg1m1.png) | 8    | ![Image 8](https://i.imgur.com/pRhdjMA.png) |
 | 9    | ![Image 9](https://i.imgur.com/vi50MGR.png) | 10   | ![Image 10](https://i.imgur.com/DCUByWJ.png) |
-| 11   | ![Image 11](https://i.imgur.com/ZMpSBOZ.png) |      |  |
+| 11   | ![Image 11](https://i.imgur.com/ZMpSBOZ.png) |
 
 
 
