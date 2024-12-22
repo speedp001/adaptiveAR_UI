@@ -18,13 +18,7 @@
 
 ## Description
 
-- **Pipeline**
-  - Vuforia를 활용한 실시간 이미지 트래킹
-  - Unity UI 렌더링을 통한 AR UI 표시
-  - Contrast Mode를 이용한 색상 최적화
-  - HoloLens2 및 다양한 플랫폼(Android, iOS, Windows)에서 빌드 가능
-
-![Example Image](https://i.imgur.com/a/VXgsHRw)
+[![Example Image](https://i.imgur.com/a/VXgsHRw)](https://imgur.com/a/2V5Zce3)
 
 ## AssetStore
 
