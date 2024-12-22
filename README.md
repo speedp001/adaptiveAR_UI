@@ -12,11 +12,11 @@
 
 ## Motivation
 
-> Image Tracking 기법을 사용한 증강현실 구현을 목표로 Unity, MRTK, Vuforia를 사용
+> Image Tracking 증강현실 구현을 목표로 Unity, MRTK, Vuforia를 사용
 > 
 > 멀티 플랫폼(Android, IOS, HoloLens, Windows)에 빌드 가능한 AR UI
 >
-> 실시간 객체 인식, 주변 조도에 적응 가능한 적응형 UI
+> 실시간 객체 인식, 주변 조도에 적응 가능한 적응형 UI를 만들고자 하였다.
 
 ## Development Environment
 
@@ -59,9 +59,10 @@
 
 ## Requirements
 
-프로젝트를 실행하려면 먼저 필요한 라이브러리를 설치해야 합니다. 아래는 필요한 라이브러리들이 나열되어 있는 `requirements.txt` 파일을 사용하여 설치하는 방법입니다.
-```sh
-pip install -r requirements.txt
+프로젝트를 실행하려면 다음과 같은 Toolkit이 사전에 필요합니다.
+- Unity Editor 2022.3.54f1 LTS
+- Vuforia Toolkit(https://developer.vuforia.com/downloads/sdk)
+- MRTK(https://github.com/microsoft/MixedRealityToolkit-Unity/releases)
 ```
 
 ## Demo Video
