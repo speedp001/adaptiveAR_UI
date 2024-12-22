@@ -30,14 +30,14 @@
 ## AssetStore
 
 > 프로젝트를 실행하려면 하단의 Asset 다운로드가 필요합니다.
-> - Santa Claus Rigged
-(https://assetstore.unity.com/packages/3d/characters/humanoids/humans/santa-claus-rigged-167437)
+> - Santa Claus Rigged<br></br>
+> (https://assetstore.unity.com/packages/3d/characters/humanoids/humans/santa-claus-rigged-167437)
 > 
 > - Customize Monitor Interface<br></br>
-(https://assetstore.unity.com/packages/3d/props/electronics/customize-monitor-interface-123558)
+> (https://assetstore.unity.com/packages/3d/props/electronics/customize-monitor-interface-123558)
 >   
-> - Emperor Angelfish
-(https://assetstore.unity.com/packages/3d/characters/animals/fish/emperor-angelfish-263329)
+> - Emperor Angelfish<br></br>
+> (https://assetstore.unity.com/packages/3d/characters/animals/fish/emperor-angelfish-263329)
 
 ## Demo Video
 
